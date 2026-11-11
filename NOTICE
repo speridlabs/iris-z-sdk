@@ -1,0 +1,9 @@
+Iris-Z
+Copyright 2026 SperidLabs
+
+The code in iris_z/model/ is from FLUX.2 by Black Forest Labs (https://github.com/black-forest-labs/flux2),
+licensed under the Apache License 2.0. iris_z/model/model.py adds a modality embedding and per-grid noise levels
+to the FLUX.2 transformer.
+
+The model weights are not part of this repository. They are derived from FLUX.2 [dev] and FLUX.2 [klein] Base 9B
+and are distributed under the FLUX Non-Commercial License (see the Hugging Face model card).
