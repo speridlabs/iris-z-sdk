@@ -9,7 +9,7 @@ images like the model it started from.
 
 <div align="center">
 
-<a href="https://speridlabs.com/assets/research/iris-z/iris-z.pdf" target="_blank"><img alt="Paper" src="https://img.shields.io/badge/%F0%9F%93%84%20Paper-PDF-b31b1b"></a>
+[![arXiv](https://img.shields.io/badge/arXiv-2611.16010-b31b1b.svg)](https://arxiv.org/abs/2611.16010)
 [![Project page](https://img.shields.io/badge/%F0%9F%8C%90%20Project-Page-1f6feb)](https://speridlabs.com/research/iris-z)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow)](https://huggingface.co/speridlabs/iris-z)
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-yellow)](https://huggingface.co/spaces/speridlabs/iris-z)
